@@ -1,0 +1,794 @@
+a{
+  text-decoration: none
+}
+.site-header {
+    background-color: rgba(233, 231, 231, 1);
+    padding: 0 28.6px 0 0px;
+    display: flex;
+    align-items: flex-start;
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 70px;
+    margin: 0;
+  }
+  .logo {
+    margin-top: 7px;
+    margin-right: 104.18px;
+    margin-left: 5px;
+    padding: 0 38.37px 0 0;
+    display: flex;
+    align-items: flex-start;
+  }
+  .image-1 {
+    width: 60.67px;
+    height: 60px;
+  }
+  .relative-wrapper-three {
+    margin-top: 21px;
+    position: relative;
+  }
+  .travel {
+    height: 18px;
+    width: 50.67px;
+    font-family: "Inter";
+    font-size: 19px;
+    font-weight: 200;
+    line-height: normal;
+    color: rgba(58, 151, 210, 1);
+    display: flex;
+    position: absolute;
+    right: -42px;
+    margin-top: 1px;
+  }
+  .rathe12 {
+    height: 13.3px;
+    width: 79.17px;
+    font-family: "Inter";
+    font-size: 20px;
+    font-weight: 700;
+    line-height: normal;
+    color: rgba(58, 151, 210, 1);
+    display: flex;
+    position: relative;
+    margin-top: 0;
+    margin-left: 10px;
+  }
+  .relative-wrapper-four {
+    margin-right: 395.05px;
+    position: relative;
+  }
+  .air-tickets {
+    display: flex;
+    align-items: center;
+    position: absolute;
+    margin-left: 630px;
+    height: 80px;
+    background-color: rgba(58, 151, 210, 1);;
+  }
+  .aviabilety {
+    height: 19px;
+    width: 135.79px;
+    font-family: "Inter";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: normal;
+    color: rgba(233, 231, 231, 1);
+    letter-spacing: 1.6px;
+    margin-left: 50px;
+    margin-right: 30px;
+  }
+  .accommodation {
+    padding: 0 0.03px 0 0;
+    display: flex;
+    align-items: flex-start;
+    position: absolute;
+    right: -197.17px;
+    top: 0;
+  }
+  .line-2 {
+    width: 0.5px;
+    height: 30px;
+    background-color: rgba(58, 151, 210, 1);
+    position: absolute;
+    left: 597.95px;
+    bottom: 10px;
+  }
+  .flex-wrapper-four {
+    padding: 0px 30.38px 0px 29.73px;
+    display: flex;
+    align-items: flex-start;
+    margin-top: 11px;
+    padding-right: 5px;
+  }
+  .prozhivanie {
+    height: 18px;
+    width: 137.81px;
+    font-family: "Inter";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: normal;
+    color: rgba(58, 151, 210, 1);
+    display: flex;
+    letter-spacing: 1.6px;
+    margin-right: -10px;
+  }
+  .tours {
+    padding: 0 197.91px 0 0;
+    position: relative;
+  }
+  .relative-wrapper-one {
+    display: flex;
+    align-items: flex-start;
+    position: absolute;
+    left: 197.92px;
+    top: 0;
+  }
+  .line-1 {
+    width: 1px;
+    height: 30px;
+    background-color: rgba(58, 151, 210, 1);
+    position: absolute;
+    right: -1.55px;
+    bottom: 30px;
+  }
+  .flex-wrapper-five {
+    padding: 0px 71.39px 0px 70.8px;
+    position: relative;
+    height: 70px;
+    margin-top: 10px;
+  }
+  .tury {
+    height: 19px;
+    width: 55.73px;
+    font-family: "Inter";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: normal;
+    color: rgba(58, 151, 210, 1);
+    display: flex;
+    letter-spacing: 1.6px;
+  }
+  .relative-wrapper-two {
+    position: relative;
+  }
+  .line-2-two {
+    width: 1px;
+    height: 30px;
+    background-color: rgba(58, 151, 210, 1);
+    position: absolute;
+    right: -1.87px;
+    bottom: 30px;
+  }
+  .stock {
+    padding: 8px 0.01px 6px 62.85px;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    left: 0.19px;
+    top: 20px;
+  }
+  
+  .akcii {
+    height: 16px;
+    width: 67.89px;
+    font-family: "Inter";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: normal;
+    color: rgba(58, 151, 210, 1);
+    display: flex;
+    letter-spacing: 1.6px;
+    margin-top: 0px;
+  }
+  
+  .profile {
+    background-color: rgba(233, 231, 231, 1);
+    margin-right: 183.04px;
+    padding: 0px 54.12px 11px 53.42px;
+    display: flex;
+    align-items: center;
+    margin-left: 40px;
+  }
+  
+  .profil {
+    height: 16px;
+    width: 98.29px;
+    font-family: "Inter";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: normal;
+    color: rgba(58, 151, 210, 1);
+    display: flex;
+    letter-spacing: 1.6px;
+    margin-top: 28px;
+    margin-left: 7px;
+  }
+  
+  .vector {
+    width: 1.7%;
+    height: 21%;
+    margin-top: 28px;
+    margin-left: -50px;
+  }
+  
+  .line-5 {
+    width: 1px;
+    height: 30px;
+    background-color: rgba(58, 151, 210, 1);
+    position: absolute;
+    right: 400px;
+    bottom: 30px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.flex-wrapper-eight {
+  background-color: rgba(58, 151, 210, 1);
+  margin-bottom: 44px;
+  padding: 33px 19.92px 54px 36px;
+  display: flex;
+  align-items: flex-start;
+  margin-left: -10px;
+  margin-right: -8px;
+  height: 240px;
+}
+.flex-wrapper-thirteen {
+  margin-right: 7.29px;
+  padding: 0 0.42px 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.sides {
+  margin-bottom: 27px;
+  margin-left: 13.88px;
+  display: flex;
+  align-items: center;
+}
+.one-way {
+  background-color: rgba(77, 170, 229, 1);
+  position: relative;
+  border: 1px solid rgba(6, 82, 130, 1);
+  margin-left: 150px;
+  width: 150px;
+  height: 30px;
+  top: 41px;
+  margin-left: 0px;
+}
+.v-odnu-storonu {
+  width: 153px;
+  font-family: "Inter";
+  font-size: 16px;
+  font-weight: 600;
+  line-height: normal;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  right: 0.33px;
+  letter-spacing: 1.6px;
+  margin-top: 4px;
+  left: 11px;
+}
+.a2 {
+  width: 153px;
+  height: 30px;
+  background-color: rgba(6, 82, 130, 1);
+  position: relative;
+  border: 1px solid rgba(6, 82, 130, 1);
+  top: 41px;
+}
+.tuda-i-obratno {
+  width: 153px;
+  font-family: "Inter";
+  font-size: 16px;
+  font-weight: 600;
+  line-height: normal;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  left: 12.67px;
+  letter-spacing: 1.6px;
+  margin-top: 4px;
+}
+.flex-wrapper-fourteen {
+  margin-bottom: 51px;
+  padding: 0 0 0 0.42px;
+  display: flex;
+  align-items: flex-start;
+}
+.from {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-top: 10px;
+}
+.from:not(:last-of-type) {
+  margin-right: 7.12px;
+}
+.otkuda {
+  width: 152px;
+  font-family: "Inter";
+  font-size: 18px;
+  font-weight: 600;
+  line-height: normal;
+  color: rgba(255, 255, 255, 1);
+  margin-left: 3.58px;
+  letter-spacing: 2px;
+}
+.flex-wrapper-seven {
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 5px;
+  padding: 9px 123.46px 9px 12.58px;
+  display: flex;
+  align-items: center;
+}
+.moskva {
+  width: 107px;
+  font-family: "Inter";
+  font-size: 18px;
+  font-weight: 400;
+  line-height: normal;
+  color: rgba(0, 0, 0, 1);
+  letter-spacing: 2px;
+}
+.group52 {
+  margin-top: 80px;
+  margin-right: 6.84px;
+  padding: 6.25px 3.29px 6.25px 3.3px;
+  display: flex;
+  align-items: center;
+}
+.shala {
+  flex: 1;
+  align-self: stretch;
+  object-fit: cover;
+}
+.where {
+  margin-right: 6.83px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-top: 10px;
+}
+.kuda {
+  width: 156px;
+  font-family: "Inter";
+  font-size: 18px;
+  font-weight: 600;
+  line-height: normal;
+  color: rgba(255, 255, 255, 1);
+  letter-spacing: 2px;
+}
+.flex-wrapper-six {
+  background-color: rgba(255, 255, 255, 1);
+  margin-left: 0.29px;
+  border-radius: 5px;
+  padding: 9px 158.17px 9px 14.71px;
+  display: flex;
+  align-items: center;
+}
+.kaliningrad {
+  width: 162px;
+  font-family: "Inter";
+  font-size: 18px;
+  font-weight: 400;
+  line-height: normal;
+  color: rgba(0, 0, 0, 1);
+  letter-spacing: 2px;
+}
+.froms {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-top: 10px;
+}
+.data-vyleta {
+  width: 198px;
+  font-family: "Inter";
+  font-size: 18px;
+  font-weight: 600;
+  line-height: normal;
+  color: rgba(255, 255, 255, 1);
+  margin-bottom: 19px;
+  letter-spacing: 2px;
+}
+.flex-wrapper-fives {
+  background-color: rgba(255, 255, 255, 1);
+  margin-left: 0.29px;
+  border-radius: 5px;
+  padding: 9px 37.71px 9px 31.71px;
+  display: flex;
+  align-items: center;
+}
+.num-09-12-2023 {
+  width: 138px;
+  font-family: "Inter";
+  font-size: 18px;
+  font-weight: 400;
+  line-height: normal;
+  color: rgba(0, 0, 0, 1);
+  letter-spacing: 2px;
+}
+.the-bottom-panel {
+  display: flex;
+  align-items: center;
+}
+.flight-class {
+  margin-right: 7.67px;
+  display: flex;
+  align-items: flex-start;
+  margin-top: -40px;
+}
+.klass-pereleta {
+  width: 205px;
+  font-family: "Inter";
+  font-size: 18px;
+  font-weight: 600;
+  line-height: normal;
+  color: rgba(255, 255, 255, 1);
+  margin-top: 8px;
+  margin-left: 5px;
+  letter-spacing: 2px;
+}
+.flex-wrapper-two {
+  background-color: rgba(58, 151, 210, 1);
+  border-radius: 5px;
+  padding: 0px 7.66px 0 20px;
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+  border: 2px solid rgba(96, 96, 96, 1);
+  margin-left: -36px;
+  height: 30px;
+  margin-top: 3px;
+}
+.l1 {
+  width: 1px;
+  height: 30px;
+  background-color: rgba(96, 96, 96, 1);
+  position: absolute;
+  left: 104.54px;
+  margin-left: -10px;
+}
+.jekonom {
+  width: 92px;
+  font-family: "Inter";
+  font-size: 18px;
+  font-weight: 600;
+  line-height: normal;
+  color: rgba(255, 255, 255, 1);
+  margin-top: 5px;
+  margin-right: 14px;
+  margin-left: -10px;
+  letter-spacing: 2px;
+}
+.frame11 {
+  padding: 0 0 0.62px;
+  position: relative;
+}
+.vector11 {
+  position: absolute;
+  top: 10px;
+  right: 0px;
+}
+.airline {
+  margin-right: 29.33px;
+  padding: 0 0.04px 0 0;
+  display: flex;
+  align-items: flex-start;
+  margin-top: -40px;
+  margin-left: 10px;
+}
+.aviakompanija {
+  width: 177px;
+  font-family: "Inter";
+  font-size: 18px;
+  font-weight: 600;
+  line-height: normal;
+  color: rgba(255, 255, 255, 1);
+  margin-top: 8px;
+  margin-right: 2px;
+  letter-spacing: 2px;
+}
+.relative-wrapper-one {
+  position: relative;
+}
+.a11 {
+  width: 31.63px;
+  height: 41px;
+  background-color: rgba(58, 151, 210, 1);
+  border-radius: 5px;
+  position: relative;
+  width: 30px;
+  height: 30px;
+  border: 2px solid rgba(96, 96, 96, 1);
+  margin-left: -220px;
+}
+.vector22 {
+  position: absolute;
+  right: 195px;
+  bottom: 5px;
+}
+.frame22 {
+  padding: 0 0 0.62px;
+  display: flex;
+  align-items: center;
+  position: absolute;
+  right: -0.04px;
+  bottom: 2px;
+}
+.vector22 {
+  height: 101.57%;
+  flex: 1;
+  position: relative;
+}
+.no-transfers {
+  padding: 5px 31.54px 11px 0;
+  position: relative;
+  margin-top: -45px;
+}
+.bez-peresadok {
+  width: 178px;
+  font-family: "Inter";
+  font-size: 18px;
+  font-weight: 600;
+  line-height: normal;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+  letter-spacing: 2px;
+}
+.flex-wrapper-one {
+  background-color: rgba(233, 231, 231, 1);
+  border-radius: 5px;
+  padding: 0px 2.18px 0px 2.16px;
+  display: flex;
+  align-items: flex-start;
+  position: absolute;
+  left: 177.88px;
+  top: 0;
+  margin-top: 17px;
+  margin-left: -30px;
+}
+.frame33 {
+  padding: 6.94px 2.1px 5.03px 2.65px;
+  display: flex;
+  align-items: center;
+}
+.vector33 {
+  height: 100%;
+  flex: 1;
+  object-fit: cover;
+}
+.return-date {
+  margin-top: 74px;
+  margin-right: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-top: 70px;
+}
+.data-vozvraschenija {
+  width: 223px;
+  font-family: "Inter";
+  font-size: 18px;
+  font-weight: 600;
+  line-height: normal;
+  color: rgba(255, 255, 255, 1);
+  margin-bottom: 19px;
+  letter-spacing: 2px;
+}
+.flex-wrapper-fours {
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 5px;
+  padding: 9px 24px 9px 54px;
+  display: flex;
+  align-items: center;
+}
+.num-23-12-2023 {
+  width: 145px;
+  font-family: "Inter";
+  font-size: 18px;
+  font-weight: 400;
+  line-height: normal;
+  color: rgba(0, 0, 0, 1);
+  letter-spacing: 2px;
+}
+.tourists {
+  margin-top: 76px;
+  margin-right: 27px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-top: 70px;
+}
+.turisty {
+  width: 111px;
+  font-family: "Inter";
+  font-size: 18px;
+  font-weight: 600;
+  line-height: normal;
+  color: rgba(255, 255, 255, 1);
+  margin-bottom: 19px;
+  letter-spacing: 2px;
+}
+.flex-wrapper-three {
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 5px;
+  padding: 9px 0 9px 21px;
+  display: flex;
+  align-items: flex-start;
+}
+.num-1-vzr {
+  width: 77px;
+  font-family: "Inter";
+  font-size: 18px;
+  font-weight: 400;
+  line-height: normal;
+  color: rgba(0, 0, 0, 1);
+  letter-spacing: 2px;
+}
+.flex-wrapper-nine {
+  background-color: rgba(255, 177, 25, 1);
+  margin-top: 90px;
+  border-radius: 10px;
+  padding: 0px 60.08px 0px 61px;
+  display: flex;
+  align-items: center;
+  margin-top: 110px;
+}
+.poisk {
+  width: 118px;
+  font-family: "Inter";
+  font-size: 30px;
+  font-weight: 600;
+  line-height: normal;
+  color: rgba(255, 255, 255, 1);
+  letter-spacing: 3.2px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.bottom {
+  margin-left: 115.58px;
+  display: flex;
+  align-items: flex-start;
+}
+.tuerkiye {
+  background-size: 100% 100%;
+  background-position: center;
+  background-image: url("https://static.overlay-tech.com/assets/7682a9b4-5d5e-4026-a51d-06ea7445ca51.png");
+  margin-top: 99px;
+  margin-left: -40px;
+  margin-right: 60px;
+  border-radius: 35px;
+  display: flex;
+  align-items: center;
+  margin-top: 160px;
+  width: 300px;
+  height: 500px;
+}
+.turcija {
+  width: 135px;
+  font-family: "Inter";
+  font-size: 32px;
+  font-weight: 700;
+  line-height: normal;
+  color: rgba(255, 255, 255, 1);
+  letter-spacing: 3.2px;
+  margin-left: 80px;
+}
+.flex-wrapper-eleven {
+  margin-right: 47.83px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.populjarnye-napravlenija {
+  width: 537px;
+  font-family: "Inter";
+  font-size: 36px;
+  font-weight: 200;
+  line-height: normal;
+  color: rgba(0, 0, 0, 1);
+  margin-bottom: 55px;
+  margin-left: 96px;
+  letter-spacing: 3.6px;
+}
+.flex-wrapper-twelve {
+  display: flex;
+  align-items: flex-start;
+}
+.russia {
+  background-size: 100% 100%;
+  background-position: center;
+  background-image: url("https://static.overlay-tech.com/assets/6e932b06-4f71-4973-a683-fae276a09332.png");
+  border-radius: 35px;
+  display: flex;
+  align-items: center;
+  margin-top: 30px;
+  margin-bottom: 50px;
+  width: 300px;
+  height: 500px;
+  margin-right: 60px;
+}
+.rossija {
+  width: 141px;
+  font-family: "Inter";
+  font-size: 32px;
+  font-weight: 700;
+  line-height: normal;
+  color: rgba(255, 255, 255, 1);
+  letter-spacing: 3.2px;
+  margin-left: 90px;
+}
+.uae {
+  background-size: 100% 100%;
+  background-position: center;
+  background-image: url("https://static.overlay-tech.com/assets/14acb2e4-dd61-4bac-a36f-810cadb1e88c.png");
+  border-radius: 35px;
+  width: 300px;
+  height: 500px;
+  display: flex;
+  align-items: center;
+  margin-top: 30px;
+  margin-right: 10px;
+}
+.oaje {
+  width: 82px;
+  font-family: "Inter";
+  font-size: 32px;
+  font-weight: 700;
+  line-height: normal;
+  color: rgba(255, 255, 255, 1);
+  letter-spacing: 3.2px;
+  margin-left: 110px;
+}
+.egypt {
+  background-size: 100% 100%;
+  background-position: center;
+  background-image: url("https://static.overlay-tech.com/assets/2a052521-44b3-4470-b100-7958d6233074.png");
+  margin-top: 99px;
+  border-radius: 35px;
+  width: 300px;
+  height: 500px;
+  display: flex;
+  align-items: center;
+  margin-top: 160px;
+}
+.egipet {
+  width: 131px;
+  font-family: "Inter";
+  font-size: 32px;
+  font-weight: 700;
+  line-height: normal;
+  color: rgba(255, 255, 255, 1);
+  letter-spacing: 3.2px;
+  margin-left: 90px;
+}

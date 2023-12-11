@@ -1,0 +1,541 @@
+a{
+  text-decoration: none
+}
+.site-header {
+    background-color: rgba(233, 231, 231, 1);
+    padding: 0 28.6px 0 0px;
+    display: flex;
+    align-items: flex-start;
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 70px;
+    margin: 0;
+  }
+  .logo {
+    margin-top: 7px;
+    margin-right: 104.18px;
+    margin-left: 5px;
+    padding: 0 38.37px 0 0;
+    display: flex;
+    align-items: flex-start;
+  }
+  .image-1 {
+    width: 60.67px;
+    height: 60px;
+  }
+  .relative-wrapper-three {
+    margin-top: 21px;
+    position: relative;
+  }
+  .travel {
+    height: 18px;
+    width: 50.67px;
+    font-family: "Inter";
+    font-size: 19px;
+    font-weight: 200;
+    line-height: normal;
+    color: rgba(58, 151, 210, 1);
+    display: flex;
+    position: absolute;
+    right: -42px;
+    margin-top: 1px;
+  }
+  .rathe12 {
+    height: 13.3px;
+    width: 79.17px;
+    font-family: "Inter";
+    font-size: 20px;
+    font-weight: 700;
+    line-height: normal;
+    color: rgba(58, 151, 210, 1);
+    display: flex;
+    position: relative;
+    margin-top: 0;
+    margin-left: 10px;
+  }
+  .relative-wrapper-four {
+    margin-right: 395.05px;
+    position: relative;
+  }
+  .air-tickets {
+    padding: 0px -30.68px 0px 31.45px;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    right: -410.05px;
+    top: 12px;
+  }
+  .aviabilety {
+    height: 19px;
+    width: 135.79px;
+    font-family: "Inter";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: normal;
+    color: rgba(58, 151, 210, 1);
+    display: flex;
+    letter-spacing: 1.6px;
+    margin-left: 100px;
+  }
+  .accommodation {
+    padding: 0 0.03px 0 0;
+    display: flex;
+    align-items: flex-start;
+    position: absolute;
+    right: -210.17px;
+    top: 0;
+    background-color: rgba(58, 151, 210, 1);
+    padding-left: 25px;
+    padding-right: 20px;
+    padding-top: 0px;
+    padding-bottom: 10px;
+  }
+  .line-2 {
+    width: 0.5px;
+    height: 30px;
+    background-color: rgba(58, 151, 210, 1);
+    position: absolute;
+    left: 440px;
+    bottom: 19px;
+  }
+  .flex-wrapper-four {
+    padding: 0px 30.38px 0px 29.73px;
+    display: flex;
+    align-items: flex-start;
+    margin-top: 11px;
+    padding-right: 5px;
+  }
+  .prozhivanie {
+    height: 18px;
+    width: 137.81px;
+    font-family: "Inter";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: normal;
+    color: rgba(233, 231, 231, 1);
+    display: flex;
+    letter-spacing: 1.6px;
+  }
+  .tours {
+    padding: 0 197.91px 0 0;
+    position: relative;
+  }
+  .relative-wrapper-one {
+    display: flex;
+    align-items: flex-start;
+    position: absolute;
+    left: 197.92px;
+    bottom: 25px;
+
+  }
+  .line-1 {
+    width: 1px;
+    height: 30px;
+    background-color: rgba(58, 151, 210, 1);
+    position: absolute;
+    right: -1.55px;
+    bottom: 32px;
+    left: 830px
+  }
+  .flex-wrapper-five {
+    padding: 0px 71.39px 0px 70.8px;
+    position: relative;
+    height: 70px;
+    margin-top: 10px;
+  }
+  .tury {
+    height: 19px;
+    width: 55.73px;
+    font-family: "Inter";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: normal;
+    color: rgba(58, 151, 210, 1);
+    display: flex;
+    letter-spacing: 1.6px;
+    margin-top: 15px;
+  }
+  .relative-wrapper-two {
+    position: relative;
+  }
+  .line-2-two {
+    width: 1px;
+    height: 30px;
+    background-color: rgba(58, 151, 210, 1);
+    position: absolute;
+    right: -1.87px;
+    bottom: 57px;
+  }
+  .stock {
+    padding: 8px 0.01px 6px 62.85px;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    left: 0.19px;
+    top: 20px;
+  }
+  
+  .akcii {
+    height: 16px;
+    width: 67.89px;
+    font-family: "Inter";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: normal;
+    color: rgba(58, 151, 210, 1);
+    display: flex;
+    letter-spacing: 1.6px;
+    margin-top: 0px;
+  }
+  
+  .profile {
+    background-color: rgba(233, 231, 231, 1);
+    margin-right: 183.04px;
+    padding: 0px 54.12px 11px 53.42px;
+    display: flex;
+    align-items: center;
+    margin-left: 40px;
+  }
+  
+  .profil {
+    height: 16px;
+    width: 98.29px;
+    font-family: "Inter";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: normal;
+    color: rgba(58, 151, 210, 1);
+    display: flex;
+    letter-spacing: 1.6px;
+    margin-top: 28px;
+    margin-left: 7px;
+  }
+  
+  .vector {
+    width: 1.7%;
+    height: 21%;
+    margin-top: 28px;
+    margin-left: -50px;
+  }
+  
+  .line-5 {
+    width: 1px;
+    height: 30px;
+    background-color: rgba(58, 151, 210, 1);
+    position: absolute;
+    right: 400px;
+    bottom: 56px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+  .flex-wrapper-one {
+    background-color: rgba(58, 151, 210, 1);
+    margin-bottom: 81px;
+    padding: 27px 49.09px 20px 26.92px;
+    display: flex;
+    align-items: flex-start;
+    margin-left: -9px;
+    margin-right: -8px;
+  }
+  .where {
+    margin-right: 37.2px;
+    padding: 43px 0 6px;
+    position: relative;
+    margin-top: 40px;
+  }
+  .rectangle-7 {
+    width: 550px;
+    height: 60px;
+    background-color: rgba(255, 255, 255, 1);
+    border-radius: 5px;
+    position: relative;
+    margin-top: 10px;
+  }
+  .kaliningrad {
+    max-width: 140.45px;
+    font-family: "Inter";
+    font-size: 18px;
+    font-weight: 400;
+    line-height: normal;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    left: 16.97px;
+    bottom: 0;
+    letter-spacing: 2px;
+    margin-bottom: 25px;
+  }
+  .kuda {
+    max-width: 61.27px;
+    font-family: "Inter";
+    font-size: 20px;
+    font-weight: 600;
+    line-height: normal;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    left: 0;
+    top: 0;
+    letter-spacing: 2.4px;
+  }
+  .dates-of-stay {
+    margin-right: 37.21px;
+    padding: 43px 0 6px;
+    position: relative;
+    margin-top: 35px;
+  }
+  .rectangle-7-two {
+    width: 360px;
+    height: 60px;
+    background-color: rgba(255, 255, 255, 1);
+    border-radius: 5px;
+    position: relative;
+    margin-top: 15px;
+  }
+  .num-23-11-2023-24-11-2023 {
+    font-family: "Inter";
+    font-size: 18px;
+    font-weight: 400;
+    line-height: normal;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    left: 75.21px;
+    bottom: 0;
+    letter-spacing: 2px;
+    margin-bottom: 25px;
+  }
+  .daty-prozhivanija {
+    font-family: "Inter";
+    font-size: 20px;
+    font-weight: 600;
+    line-height: normal;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    left: 0;
+    top: 0;
+    letter-spacing: 2.4px;
+  }
+  .tourists {
+    margin-right: 37.2px;
+    padding: 43px 0 3px;
+    position: relative;
+    margin-top: 35px;
+  }
+  .rectangle-7-three {
+    width: 188.42px;
+    height: 60px;
+    background-color: rgba(255, 255, 255, 1);
+    border-radius: 5px;
+    position: relative;
+    margin-top: 15px;
+  }
+  .layer-1 {
+    padding: 3.75px 15.95px 3.74px 15.96px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    left: 94.21px;
+    top: 46px;
+    margin-top: 11px;
+  }
+  .vector-two {
+    width: 44.39%;
+    height: 16.64%;
+    margin-bottom: 0.99px;
+  }
+  .vector-three {
+    height: 81.47%;
+    align-self: stretch;
+    object-fit: cover;
+  }
+  .layer-1-two {
+    padding: 3.75px 15.95px 3.74px 15.96px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    left: 46.71px;
+    top: 46px;
+    margin-top: 11px;
+  }
+  .turisty {
+    max-width: 94.21px;
+    font-family: "Inter";
+    font-size: 20px;
+    font-weight: 600;
+    line-height: normal;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    left: 0;
+    top: 0;
+    letter-spacing: 2.4px;
+  }
+  .relative-wrapper-one {
+    margin-top: 29px;
+    position: relative;
+  }
+  .rectangle-8 {
+    width: 239.08px;
+    height: 89px;
+    background-color: rgba(255, 177, 25, 1);
+    border-radius: 10px;
+    position: relative;
+    margin-top: 70px;
+    margin-left: -180px;
+  }
+  .poisk {
+    max-width: 89.46px;
+    font-family: "Inter";
+    font-size: 32px;
+    font-weight: 600;
+    line-height: normal;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    left: 74.42px;
+    bottom: -5px;
+    letter-spacing: 3.2px;
+    margin-left: -190px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .pjat-prichin-zabronirovat {
+    font-family: "Inter";
+    font-size: 36px;
+    font-weight: 300;
+    line-height: normal;
+    color: rgba(0, 0, 0, 1);
+    text-align: center;
+    margin-bottom: 150px;
+    letter-spacing: 3.6px;
+  }
+  .reasons-to-book {
+    margin-bottom: 114px;
+    margin-left: 150.42px;
+    display: flex;
+    align-items: flex-start;
+  }
+  .num-1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .num-1:not(:last-of-type) {
+    margin-right: 54.62px;
+  }
+  .info-1-1 {
+    width: 79.17px;
+    height: 100px;
+    margin-bottom: 49px;
+  }
+  .prostoj-poisk-i-udobnyj-fil-tr {
+    max-width: 231.96px;
+    font-family: "Inter";
+    font-size: 20px;
+    font-weight: 200;
+    line-height: normal;
+    color: rgba(0, 0, 0, 1);
+    text-align: center;
+    letter-spacing: 2px;
+  }
+  .num-2 {
+    margin-right: 79.96px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .vygodnye-ceny-i-akcii {
+    max-width: 138.54px;
+    font-family: "Inter";
+    font-size: 20px;
+    font-weight: 200;
+    line-height: normal;
+    color: rgba(0, 0, 0, 1);
+    text-align: center;
+    letter-spacing: 2px;
+  }
+  .num-3 {
+    margin-right: 54.63px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .info-3-1 {
+    width: 79.17px;
+    height: 100px;
+    margin-bottom: 49px;
+    margin-left: 52.25px;
+  }
+  .oplata-rossijskimi-kartami {
+    max-width: 188.42px;
+    font-family: "Inter";
+    font-size: 20px;
+    font-weight: 200;
+    line-height: normal;
+    color: rgba(0, 0, 0, 1);
+    text-align: center;
+    letter-spacing: 2px;
+  }
+  .num-4 {
+    margin-top: 1px;
+    margin-right: 54.62px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .jekskljuzivnye-oteli-est-tol-ko-u-coral-t {
+    max-width: 228.79px;
+    font-family: "Inter";
+    font-size: 20px;
+    font-weight: 200;
+    line-height: normal;
+    color: rgba(0, 0, 0, 1);
+    text-align: center;
+    letter-spacing: 2px;
+  }
+  .podderzhka-po-telefonu-i-v-chate {
+    max-width: 218.5px;
+    font-family: "Inter";
+    font-size: 20px;
+    font-weight: 200;
+    line-height: normal;
+    color: rgba(0, 0, 0, 1);
+    text-align: center;
+    letter-spacing: 2px;
+  }
+  .vybirajte-otel-na-rathe12-ru-jeto-udob {
+    font-family: "Inter";
+    font-size: 20px;
+    font-weight: 200;
+    line-height: normal;
+    color: rgba(0, 0, 0, 1);
+    text-align: center;
+    letter-spacing: 2px;
+    margin-bottom: 50px;
+  }

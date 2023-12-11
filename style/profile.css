@@ -1,0 +1,646 @@
+a{
+  text-decoration: none
+}
+.site-header {
+  background-color: rgba(233, 231, 231, 1);
+  padding: 0 28.6px 0 0px;
+  display: flex;
+  align-items: flex-start;
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 70px;
+  width: 1507px;
+  margin: 0;
+}
+.logo {
+  margin-top: 7px;
+  margin-right: 104.18px;
+  margin-left: 5px;
+  padding: 0 38.37px 0 0;
+  display: flex;
+  align-items: flex-start;
+}
+.image-1 {
+  width: 60.67px;
+  height: 60px;
+}
+.relative-wrapper-three {
+  margin-top: 21px;
+  position: relative;
+}
+.travel {
+  height: 18px;
+  width: 50.67px;
+  font-family: "Inter";
+  font-size: 19px;
+  font-weight: 200;
+  line-height: normal;
+  color: rgba(58, 151, 210, 1);
+  display: flex;
+  position: absolute;
+  right: -42px;
+  margin-top: 1px;
+}
+.rathe12 {
+  height: 13.3px;
+  width: 79.17px;
+  font-family: "Inter";
+  font-size: 20px;
+  font-weight: 700;
+  line-height: normal;
+  color: rgba(58, 151, 210, 1);
+  display: flex;
+  position: relative;
+  margin-top: 0;
+  margin-left: 10px;
+}
+.relative-wrapper-four {
+  margin-right: 395.05px;
+  position: relative;
+}
+.air-tickets {
+  padding: 0px -30.68px 0px 31.45px;
+  display: flex;
+  align-items: center;
+  position: absolute;
+  right: -410.05px;
+  top: 12px;
+}
+.aviabilety {
+  height: 19px;
+  width: 135.79px;
+  font-family: "Inter";
+  font-size: 16px;
+  font-weight: 600;
+  line-height: normal;
+  color: rgba(58, 151, 210, 1);
+  display: flex;
+  letter-spacing: 1.6px;
+  margin-left: 100px;
+}
+.accommodation {
+  padding: 0 0.03px 0 0;
+  display: flex;
+  align-items: flex-start;
+  position: absolute;
+  right: -197.17px;
+  top: 0;
+}
+.line-2 {
+  width: 0.5px;
+  height: 30px;
+  background-color: rgba(58, 151, 210, 1);
+  position: absolute;
+  left: 197.95px;
+  bottom: 10px;
+}
+.flex-wrapper-four {
+  padding: 0px 30.38px 0px 29.73px;
+  display: flex;
+  align-items: flex-start;
+  margin-top: 11px;
+  padding-right: 5px;
+}
+.prozhivanie {
+  height: 18px;
+  width: 137.81px;
+  font-family: "Inter";
+  font-size: 16px;
+  font-weight: 600;
+  line-height: normal;
+  color: rgba(58, 151, 210, 1);
+  display: flex;
+  letter-spacing: 1.6px;
+}
+.tours {
+  padding: 0 197.91px 0 0;
+  position: relative;
+}
+.relative-wrapper-one {
+  display: flex;
+  align-items: flex-start;
+  position: absolute;
+  left: 197.92px;
+  top: 0;
+}
+.line-1 {
+  width: 1px;
+  height: 30px;
+  background-color: rgba(58, 151, 210, 1);
+  position: absolute;
+  right: -1.55px;
+  bottom: 30px;
+}
+.flex-wrapper-five {
+  padding: 0px 71.39px 0px 70.8px;
+  position: relative;
+  height: 70px;
+  margin-top: 10px;
+}
+.tury {
+  height: 19px;
+  width: 55.73px;
+  font-family: "Inter";
+  font-size: 16px;
+  font-weight: 600;
+  line-height: normal;
+  color: rgba(58, 151, 210, 1);
+  display: flex;
+  letter-spacing: 1.6px;
+  margin-top: 25ps;
+}
+.relative-wrapper-two {
+  position: relative;
+}
+.line-2-two {
+  width: 1px;
+  height: 30px;
+  background-color: rgba(58, 151, 210, 1);
+  position: absolute;
+  right: -1.87px;
+  bottom: 19px;
+}
+.rectangle-2 {
+  width: 197.92px;
+  height: 70px;
+  background-color: rgba(233, 231, 231, 1);
+  position: relative;
+}
+.stock {
+  padding: 8px 0.01px 6px 62.85px;
+  display: flex;
+  align-items: center;
+  position: absolute;
+  left: 0.19px;
+  top: 20px;
+}
+
+.akcii {
+  height: 16px;
+  width: 67.89px;
+  font-family: "Inter";
+  font-size: 16px;
+  font-weight: 600;
+  line-height: normal;
+  color: rgba(58, 151, 210, 1);
+  display: flex;
+  letter-spacing: 1.6px;
+  margin-top: 0px;
+}
+
+.profile {
+  background-color: rgba(58, 151, 210, 1);
+  margin-right: 183.04px;
+  padding: 0px 54.12px 11px 53.42px;
+  display: flex;
+  align-items: center;
+  margin-left: 40px;
+}
+
+.profil {
+  height: 16px;
+  width: 98.29px;
+  font-family: "Inter";
+  font-size: 16px;
+  font-weight: 600;
+  line-height: normal;
+  color: rgba(233, 231, 231, 1);
+  display: flex;
+  letter-spacing: 1.6px;
+  margin-top: 28px;
+  margin-left: 7px;
+}
+
+.vector {
+  width: 1.7%;
+  height: 21%;
+  margin-top: 28px;
+  margin-left: -50px;
+}
+
+.line-5 {
+  width: 1px;
+  height: 30px;
+  background-color: rgba(58, 151, 210, 1);
+  position: absolute;
+  right: 400px;
+  bottom: 18px;
+}
+
+
+.top-panel {
+  background-color: rgba(58, 151, 210, 1);
+  margin-top: 70px;
+  margin-left: 0;
+  margin-right: -8px;
+  margin-left: -8px;
+}
+
+.lichnyj-kabinet {
+  height: 46px;
+  width: 278px;
+  margin-left: 10px;
+  font-family: "Inter";
+  font-size: 24px;
+  font-weight: 300;
+  line-height: normal;
+  color: rgba(255, 255, 255, 1);
+  letter-spacing: 2.4px;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+
+.left-panel {
+  display: inline-block;
+  background-color: rgba(77, 170, 229, 1);
+  right: 1285px;
+  margin-left: -9px;
+  margin-top: -24px;
+  padding: 0 0 430px;
+  height: 119px;
+}
+.my-account {
+  background-color: rgba(233, 231, 231, 1);
+  padding: 31px 46px 31px 47px;
+  display: flex;
+  align-items: center;
+  border: 2px solid rgba(12, 140, 221, 1);
+  height: 30px;
+}
+.moj-akkaunt {
+  font-family: "Inter";
+  font-size: 20px;
+  font-weight: 500;
+  line-height: normal;
+  color: rgba(6, 82, 130, 1);
+  letter-spacing: 2px;
+}
+.my-orders {
+  background-color: rgba(77, 170, 229, 1);
+  padding: 34px 58px 32px 49px;
+  display: flex;
+  align-items: center;
+  height: 30px;
+}
+.moi-zakazy {
+  font-family: "Inter";
+  font-size: 20px;
+  font-weight: 500;
+  line-height: normal;
+  color: rgba(255, 255, 255, 1);
+  letter-spacing: 2px;
+}
+.my-contacts {
+  background-color: rgba(77, 170, 229, 1);
+  padding: 26px 30px 40px 49px;
+  display: flex;
+  align-items: flex-start;
+  height: 30px;
+  margin-top: -15px;
+}
+.settings {
+  background-color: rgba(77, 170, 229, 1);
+  padding: 29px 69px 37px 49px;
+  display: flex;
+  align-items: flex-start;
+  width: 50px;
+  margin-top: -15px;
+}
+.exit {
+  background-color: rgba(77, 170, 229, 1);
+  padding: 29px 122px 37px 49px;
+  display: flex;
+  align-items: flex-start;
+  width: 50px;
+  margin-top: -40px;
+}
+
+
+.info {
+  background-color: rgba(255, 255, 255, 1);
+  margin-top: 60px;
+  border-radius: 5px;
+  padding: 19px 32.15px 73px 22.18px;
+  position: absolute;
+  border: 1px solid rgba(105, 105, 105, 1);
+  margin-left: 250px;
+  top: 150px;
+  height: 300px;
+  margin-left: 320px;
+}
+.gender {
+  margin-bottom: 40px;
+  margin-left: 1.45px;
+  display: flex;
+  align-items: flex-start;
+}
+.pol {
+  width: 44.19px;
+  font-family: "Inter";
+  font-size: 16px;
+  font-weight: 500;
+  line-height: normal;
+  color: rgba(96, 96, 96, 1);
+  margin-top: 4px;
+  margin-right: 15.18px;
+  letter-spacing: 1.6px;
+}
+.flex-wrapper-six {
+  display: flex;
+  align-items: flex-start;
+}
+.flex-wrapper-three {
+  background-color: rgba(255, 255, 255, 1);
+  margin-top: 5.41px;
+  margin-right: 9.89px;
+  border-radius: 50%;
+  padding: 1.52px 1.62px 1.51px;
+  display: flex;
+  align-items: center;
+  border: 2px solid rgba(58, 151, 210, 1);
+}
+.ellipse-2 {
+  width: 10.87px;
+  height: 10.56px;
+  background-color: rgba(58, 151, 210, 1);
+  border-radius: 50%;
+}
+.muzhskoj {
+  height: 16.89px;
+  width: 113px;
+  font-family: "Inter";
+  font-size: 20px;
+  font-weight: 300;
+  line-height: normal;
+  color: rgba(0, 0, 0, 1);
+  display: flex;
+  letter-spacing: 2px;
+  margin-top: -0.1px;
+}
+.ellipse-1 {
+  width: 14.11px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 1);
+  margin-top: 4px;
+  margin-right: 7.89px;
+  border-radius: 50%;
+  border: 2px solid rgba(105, 105, 105, 1);
+}
+.zhenskij {
+  height: 18.24px;
+  width: 108px;
+  font-family: "Inter";
+  font-size: 20px;
+  font-weight: 300;
+  line-height: normal;
+  color: rgba(0, 0, 0, 1);
+  display: flex;
+  letter-spacing: 2px;
+  margin-top: -0.1px;
+}
+.flex-wrapper-seven {
+  margin-bottom: 83px;
+  padding: 0 0 0 1.82px;
+  display: flex;
+  align-items: flex-start;
+}
+.surname {
+  background-color: rgba(217, 238, 251, 1);
+  margin-right: 33px;
+  border-radius: 10px;
+  padding: 14px 152px 16px 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  border: 1px solid rgba(96, 96, 96, 1);
+  height: 50px;
+}
+.familija {
+  width: 86px;
+  font-family: "Inter";
+  font-size: 13px;
+  font-weight: 300;
+  line-height: normal;
+  color: rgba(0, 0, 0, 1);
+  margin-bottom: -2px;
+  margin-top: -3px;
+  letter-spacing: 1.3px;
+}
+.kirilenko {
+  width: 167px;
+  font-family: "Inter";
+  font-size: 20px;
+  font-weight: 400;
+  line-height: normal;
+  color: rgba(0, 0, 0, 1);
+  letter-spacing: 2px;
+}
+.name {
+  background-color: rgba(217, 238, 251, 1);
+  margin-right: 33px;
+  border-radius: 10px;
+  padding: 14px 194.55px 16px 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  border: 1px solid rgba(96, 96, 96, 1);
+  height: 50px;
+}
+.imja {
+  width: 31.32px;
+  font-family: "Inter";
+  font-size: 13px;
+  font-weight: 300;
+  line-height: normal;
+  color: rgba(0, 0, 0, 1);
+  margin-bottom: 3px;
+  margin-bottom: -2px;
+  margin-top: -3px;
+  margin-left: 0.14px;
+  letter-spacing: 1.3px;
+}
+.nikita {
+  width: 124.45px;
+  font-family: "Inter";
+  font-size: 20px;
+  font-weight: 400;
+  line-height: normal;
+  color: rgba(0, 0, 0, 1);
+  letter-spacing: 2px;
+}
+.date-of-birth {
+  background-color: rgba(217, 238, 251, 1);
+  border-radius: 10px;
+  padding: 13.85px 92.14px 11.29px 26px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  border: 1px solid rgba(96, 96, 96, 1);
+  height: 50px;
+}
+.data-rozhdenija {
+  height: 18.81px;
+  width: 202.82px;
+  font-family: "Inter";
+  font-size: 16px;
+  font-weight: 300;
+  line-height: normal;
+  color: rgba(0, 0, 0, 1);
+  display: flex;
+  margin-bottom: -2px;
+  margin-top: -3px;
+  margin-bottom: 0.34px;
+  margin-left: 0.28px;
+  letter-spacing: 1.6px;
+}
+.num-10-06-2003 {
+  height: 28.71px;
+  width: 215.86px;
+  font-family: "Inter";
+  font-size: 20px;
+  font-weight: 400;
+  line-height: normal;
+  color: rgba(0, 0, 0, 1);
+  display: flex;
+  letter-spacing: 2px;
+  margin-top: 15px;
+}
+.flex-wrapper-eight {
+  display: flex;
+  align-items: center;
+}
+.email {
+  background-color: rgba(217, 238, 251, 1);
+  margin-right: 34.77px;
+  border-radius: 10px;
+  padding: 13.85px 59.28px 1px 26.53px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  border: 1px solid rgba(96, 96, 96, 1);
+  height: 60px;
+}
+.e-mail {
+  height: 18.81px;
+  width: 202.82px;
+  font-family: "Inter";
+  font-size: 16px;
+  font-weight: 300;
+  line-height: normal;
+  color: rgba(0, 0, 0, 1);
+  display: flex;
+  margin-bottom: 11.34px;
+  letter-spacing: 1.6px;
+  margin-bottom: -2px;
+  margin-top: -3px;
+}
+.heke-com {
+  height: 28px;
+  width: 248px;
+  font-family: "Inter";
+  font-size: 20px;
+  font-weight: 400;
+  line-height: normal;
+  color: rgba(0, 0, 0, 1);
+  display: flex;
+  margin-left: 0.29px;
+  letter-spacing: 2px;
+  margin-top: 15px;
+}
+.phone-number {
+  margin-right: 32.6px;
+  padding: 0 0 0 71.71px;
+  position: relative;
+}
+.flex-wrapper-one {
+  background-color: rgba(217, 238, 251, 1);
+  border-radius: 10px;
+  padding: 14px 9.39px 5px 13.24px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  border: 1px solid rgba(96, 96, 96, 1);
+  height: 60px;
+}
+.mobil-nyj-telefon {
+  width: 218px;
+  font-family: "Inter";
+  font-size: 16px;
+  font-weight: 300;
+  line-height: normal;
+  color: rgba(0, 0, 0, 1);
+  margin-bottom: 11px;
+  letter-spacing: 1.6px;
+  margin-bottom: -2px;
+  margin-top: -3px;
+}
+.num-963-223-31-43 {
+  width: 239.76px;
+  font-family: "Inter";
+  font-size: 20px;
+  font-weight: 400;
+  line-height: normal;
+  color: rgba(0, 0, 0, 1);
+  letter-spacing: 2px;
+  margin-top: 15px;
+}
+.flex-wrapper-two {
+  background-color: rgba(217, 238, 251, 1);
+  border-radius: 10px;
+  padding: 39px 9.76px 10px 14.95px;
+  display: flex;
+  align-items: flex-start;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: 1px solid rgba(96, 96, 96, 1);
+  height: 30px;
+}
+.num-7 {
+  width: 45px;
+  font-family: "Inter";
+  font-size: 20px;
+  font-weight: 400;
+  line-height: normal;
+  color: rgba(0, 0, 0, 1);
+  letter-spacing: 2px;
+  margin-top: 5px;
+}
+.kod {
+  width: 67.73px;
+  font-family: "Inter";
+  font-size: 16px;
+  font-weight: 300;
+  line-height: normal;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  left: 16.09px;
+  top: 15px;
+  letter-spacing: 1.6px;
+  margin-bottom: -2px;
+  margin-top: -3px;
+}
+.save-button {
+  background-color: rgba(255, 210, 122, 1);
+  border-radius: 10px;
+  padding: 17px 5.85px 17px 30px;
+  display: flex;
+  align-items: center;
+  border: 1px solid rgba(255, 177, 25, 1);
+  height: 50px;
+}
+.sohranit {
+  width: 222px;
+  font-family: "Inter";
+  font-size: 32px;
+  font-weight: 300;
+  line-height: normal;
+  color: rgba(0, 0, 0, 1);
+  letter-spacing: 3.2px;
+  margin-left: 50px;
+  margin-right: 30px;
+}
+

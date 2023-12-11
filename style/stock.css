@@ -1,0 +1,340 @@
+a{
+  text-decoration: none
+}
+.site-header {
+    background-color: rgba(233, 231, 231, 1);
+    padding: 0 28.6px 0 0px;
+    display: flex;
+    align-items: flex-start;
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 70px;
+    margin: 0;
+  }
+  .logo {
+    margin-top: 7px;
+    margin-right: 104.18px;
+    margin-left: 5px;
+    padding: 0 38.37px 0 0;
+    display: flex;
+    align-items: flex-start;
+  }
+  .image-1 {
+    width: 60.67px;
+    height: 60px;
+  }
+  .relative-wrapper-three {
+    margin-top: 21px;
+    position: relative;
+  }
+  .travel {
+    height: 18px;
+    width: 50.67px;
+    font-family: "Inter";
+    font-size: 19px;
+    font-weight: 200;
+    line-height: normal;
+    color: rgba(58, 151, 210, 1);
+    display: flex;
+    position: absolute;
+    right: -42px;
+    margin-top: 1px;
+  }
+  .rathe12 {
+    height: 13.3px;
+    width: 79.17px;
+    font-family: "Inter";
+    font-size: 20px;
+    font-weight: 700;
+    line-height: normal;
+    color: rgba(58, 151, 210, 1);
+    display: flex;
+    position: relative;
+    margin-top: 0;
+    margin-left: 10px;
+  }
+  .relative-wrapper-four {
+    margin-right: 395.05px;
+    position: relative;
+  }
+  .air-tickets {
+    padding: 0px -30.68px 0px 31.45px;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    right: -410.05px;
+    top: 12px;
+  }
+  .aviabilety {
+    height: 19px;
+    width: 135.79px;
+    font-family: "Inter";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: normal;
+    color: rgba(58, 151, 210, 1);
+    display: flex;
+    letter-spacing: 1.6px;
+    margin-left: 100px;
+  }
+  .accommodation {
+    padding: 0 0.03px 0 0;
+    display: flex;
+    align-items: flex-start;
+    position: absolute;
+    right: -197.17px;
+    top: 0;
+  }
+  .line-2 {
+    width: 0.5px;
+    height: 30px;
+    background-color: rgba(58, 151, 210, 1);
+    position: absolute;
+    left: 197.95px;
+    bottom: 10px;
+  }
+  .flex-wrapper-four {
+    padding: 0px 30.38px 0px 29.73px;
+    display: flex;
+    align-items: flex-start;
+    margin-top: 11px;
+    padding-right: 5px;
+  }
+  .prozhivanie {
+    height: 18px;
+    width: 137.81px;
+    font-family: "Inter";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: normal;
+    color: rgba(58, 151, 210, 1);
+    display: flex;
+    letter-spacing: 1.6px;
+  }
+  .tours {
+    padding: 0 197.91px 0 0;
+    position: relative;
+  }
+  .relative-wrapper-one {
+    display: flex;
+    align-items: flex-start;
+    position: absolute;
+    left: 197.92px;
+    top: 0;
+  }
+  .line-1 {
+    width: 1px;
+    height: 30px;
+    background-color: rgba(58, 151, 210, 1);
+    position: absolute;
+    right: -1.55px;
+    bottom: 30px;
+  }
+  .flex-wrapper-five {
+    padding: 0px 71.39px 0px 70.8px;
+    position: relative;
+    height: 70px;
+    margin-top: 10px;
+  }
+  .tury {
+    height: 19px;
+    width: 55.73px;
+    font-family: "Inter";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: normal;
+    color: rgba(58, 151, 210, 1);
+    display: flex;
+    letter-spacing: 1.6px;
+  }
+  .line-2-two {
+    width: 1px;
+    height: 30px;
+    background-color: rgba(58, 151, 210, 1);
+    position: absolute;
+    right: -635.87px;
+    bottom: 19px;
+  }
+  .rectangle-2s {
+    width: 185.92px;
+    height: 70px;
+    background-color: rgba(58, 151, 210, 1);
+    position: relative;
+    margin-top: -151px;
+  }
+  .stock {
+    padding: 8px 0.01px 6px 62.85px;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    left: 0.19px;
+    top: 20px;
+  }
+  
+  .akcii {
+    height: 16px;
+    width: 67.89px;
+    font-family: "Inter";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: normal;
+    color: rgba(233, 231, 231, 1);
+    display: flex;
+    letter-spacing: 1.6px;
+    margin-top: 0px;
+  }
+  
+  .profile {
+    background-color: rgba(233, 231, 231, 1);
+    margin-right: 183.04px;
+    padding: 0px 54.12px 11px 53.42px;
+    display: flex;
+    align-items: center;
+    margin-left: 40px;
+  }
+  
+  .profil {
+    height: 16px;
+    width: 98.29px;
+    font-family: "Inter";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: normal;
+    color: rgba(58, 151, 210, 1);
+    display: flex;
+    letter-spacing: 1.6px;
+    margin-top: 28px;
+    margin-left: 7px;
+  }
+  
+  .vector {
+    width: 1.7%;
+    height: 21%;
+    margin-top: 28px;
+    margin-left: -50px;
+  }
+  
+  .line-5 {
+    width: 1px;
+    height: 30px;
+    background-color: rgba(58, 151, 210, 1);
+    position: absolute;
+    right: -440px;
+    bottom: 18px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .site-body {
+    padding: 0 0.47px 15.24px 0;
+    position: absolute;
+    top: 0;
+    margin-top: 70px;
+    margin-left: -9px;
+    background-color: rgba(58, 151, 210, 1);
+    width: 1520px;
+    height: 617px;
+  }
+  .png-transparent-arecaceae-tree-palm-tree {
+    width: 900.47px;
+    height: 700px;
+    position: absolute;
+    right: 0px;
+    top: -50px;
+  }
+  .png-transparent-sand-sandy-sandy-beach-b {
+    width: 1520px;
+    height: 280.34px;
+    position: absolute;
+    left: 0;
+    top: 430px;
+  }
+  .flex-wrapper-one {
+    padding: 160px 457px 357.14px 60.86px;
+    position: relative;
+  }
+  .relative-wrapper-one {
+    margin-bottom: 71.36px;
+    position: relative;
+  }
+  .rectangle-6 {
+    width: 266.27px;
+    height: 112.64px;
+    background-color: rgba(255, 210, 122, 1);
+    border-radius: 10px;
+    position: relative;
+    margin-top: 100px;
+    margin-left: -200px;
+  }
+  .onlajn {
+    height: 43.93px;
+    width: 120.96px;
+    font-family: "Inter";
+    font-size: 32px;
+    font-weight: 600;
+    line-height: normal;
+    color: rgba(255, 255, 255, 1);
+    display: flex;
+    position: absolute;
+    right: 800.11px;
+    bottom: 2.71px;
+    letter-spacing: 3.2px;
+  }
+  .zabronirujte {
+    height: 44px;
+    width: 327px;
+    font-family: "Inter";
+    font-size: 24px;
+    font-weight: 600;
+    line-height: normal;
+    color: rgba(255, 255, 255, 1);
+    display: flex;
+    position: absolute;
+    right: 857.87px;
+    bottom: 2.64px;
+    letter-spacing: 2.8px;
+  }
+  .tury-ot-na-dezhnogo-turoperatora-na-sajte {
+    height: 87.86px;
+    width: 559.16px;
+    font-family: "Inter";
+    font-size: 24px;
+    font-weight: lighter;
+    line-height: normal;
+    color: rgba(255, 255, 255, 1);
+    display: flex;
+    margin-bottom: -462.86px;
+    letter-spacing: 3.2px;
+  }
+  .nachnite-pokorjat-mir-s-nami {
+    height: 87px;
+    width: 1002px;
+    font-family: "Inter";
+    font-size: 50px;
+    font-weight: 200;
+    line-height: normal;
+    color: rgba(255, 255, 255, 1);
+    display: flex;
+    margin-left: 0.14px;
+    letter-spacing: 5px;
+  }
+
+
+
+
+
